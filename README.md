@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @entcfx
 - 👀 I’m interested in low level coding
-- 🌱 I’m currently learning higher level languages like javascript and python
+- 🌱 I’m currently learning rust && making an compiler
 - 📫 How to reach me: entcfx@proton.me
 
 <!---
